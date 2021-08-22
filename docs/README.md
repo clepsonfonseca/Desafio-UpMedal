@@ -2,6 +2,7 @@
 
 ## Preview
 ![store-theme-default](https://github.com/clepsonfonseca/banco-de-imagens/blob/main/assets/img/upmedal1.PNG)
+## Imagens do Projeto
 ![store-theme-default](![store-theme-default](https://github.com/clepsonfonseca/banco-de-imagens/blob/main/assets/img/upmedal1.PNG))
 
 ## Tutorial
