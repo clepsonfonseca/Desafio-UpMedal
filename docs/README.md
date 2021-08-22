@@ -19,6 +19,9 @@ Esse projeto foi desenvolvido na Plataforma de E-commerce da VTEX para criação
 
 ## Agradecimentos:
 
- Gama Academy | VTEX | Amazon Web Services (AWS) | ACCT - Consulting & Technology | we.digi | CoreBiz | Whirlpool Corporation | Loja Integrada
+ Gama Academy | VTEX | Amazon Web Services (AWS) | ACCT - Consulting & Technology | we.digi | CoreBiz | Whirlpool Corporation | Loja Integrada.
+ 
+ Feito com 💚 by **Clepson Fonseca** 👋🏻
+
 
 
