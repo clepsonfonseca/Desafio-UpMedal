@@ -1,0 +1,38 @@
+.sliderLayoutContainer {
+  justify-content: center;
+  background-color: #202024;
+}
+.sliderLayoutContainer--carousel {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.sliderTrackContainer {
+  max-width: 1520px;
+}
+.paginationDot--carousel {
+  background-color: #29ff00;
+}
+.paginationDotsContainer {
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+  
+}
+
+.layoutContainer--shelf {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  max-width: 96rem;
+  justify-content: center;
+}
+.paginationDot--shelf {
+  background-color: #29ff00;
+}
+
+.slide--shelf {
+  margin-bottom: 25px;
+  padding-left: .5rem;
+  padding-right: .5rem;
+  background: #202024;   /* cor de fundo dos produtos do carrossel */
+
+}
+  

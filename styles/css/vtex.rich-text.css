@@ -1,0 +1,30 @@
+.container--deals {
+  color: #29ff00;     /* cor fonte - ENTRAR - DESAFIOS - LOJA  - SUPORTE */
+  text-align: center;
+  justify-content: center;
+  
+}
+
+.container--shelfTitle {
+  color: #727273;   /* fonte - Conheça os nossos produtos */
+  justify-content: center;
+  text-align: center;
+  background-color: #202024; /* container - Conheça os nossos produtos */
+}
+
+.headingLevel2--shelfTitle {
+  font-weight: 200;
+  color: #29ff00;
+  
+}
+
+.container--deals .paragraph {
+  margin: 0;
+  color: #29ff00;
+}
+
+.container--link {
+  justify-content: center;
+  color: #29ff00;
+  
+}

@@ -1,0 +1,11 @@
+.row--menu-row {
+  padding-right: 24px;
+  background: #202024;
+}
+
+.row--menu-row .rowContainer {
+  background: #202024;
+  align-items: flex-start;
+  position: fixed;
+  margin-bottom: 0;
+}

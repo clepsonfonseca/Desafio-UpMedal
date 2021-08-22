@@ -1,0 +1,64 @@
+{
+  "vtex.menu@2.x:menu#category-menu": {
+    "props": {
+      "experimentalOptimizeRendering": true
+    },
+    "children": [
+      "menu-item#category-apparel",
+      "menu-item#category-home",
+      "menu-item#more"
+    ]
+  },
+  "menu-item#category-apparel": {
+    "props": {
+      "id": "menu-item-category-apparel",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "https://clepsonfonseca--hiringcoders2021.myvtex.com/upemedal?_q=upemedal&map=ft",
+        "noFollow": false,
+        "tagTitle": "Promoção",
+        "text": "PROMOÇÃO"
+      }
+    }
+  },
+    "menu-item#category-home": {
+    "props": {
+      "id": "menu-item-category-home",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "https://clepsonfonseca--hiringcoders2021.myvtex.com/camisas%20corinthians?layout=grid&map=ft",
+        "noFollow": false,
+        "tagTitle": "Corinthians",
+        "text": "CORINTHIANS"
+      }
+    }
+  },
+  "menu-item#more": {
+    "props": {
+      "id": "menu-item-custom-sale",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "https://clepsonfonseca--hiringcoders2021.myvtex.com/camisas%20palmeiras?_q=camisas%20palmeiras&map=ft",
+        "noFollow": true,
+        "tagTitle": "Palmeiras",
+        "text": "PALMEIRAS"
+      }
+    }
+  }
+}
+
+      
+    
+  
+  
+    
+

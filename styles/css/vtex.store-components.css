@@ -1,0 +1,32 @@
+.infoCardContainer--info-card-home {
+  max-width: 1520px;
+  margin: 0 auto;
+  background-color: #202024;
+  padding: 0px;
+}
+
+.productImagesContainer--quickview .carouselContainer {
+  justify-content: flex-start;
+  
+}
+
+.productImagesContainer--quickview .productImageTag {
+  object-fit: cover !important;
+}
+
+.productImagesContainer--quickview .carouselGaleryThumbs {
+  display: none;
+}
+
+.productImagesContainer--quickview .carouselGaleryCursor {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.productNameContainer {
+  color: #202024;
+  background-color: #202024;
+  font-weight: bold;
+  font-size: 30px;
+}

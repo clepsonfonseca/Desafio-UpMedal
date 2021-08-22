@@ -1,0 +1,87 @@
+{
+  "flex-layout.row#deals": {
+    "children": [
+      "flex-layout.col#deals1",
+      "flex-layout.col#deals2",
+      "flex-layout.col#deals3",
+      "flex-layout.col#deals4"
+    ],
+    "props": {
+      "blockClass": "deals"
+    }
+  },
+
+  "flex-layout.col#deals1": {
+    "children": [
+      "image#deal1",
+      "rich-text#deal1"
+    ]
+  },
+  "image#deal1": {
+    "props": {
+      "src": "assets/img/entrar.png",
+      "maxHeight": "30px"
+    }
+  },
+  "rich-text#deal1": {
+    "props": {
+      "text": "ENTRAR",
+      "blockClass": "deals"
+    }
+  },
+  "flex-layout.col#deals2": {
+    "children": [
+      "image#deal2",
+      "rich-text#deal2"
+    ]
+  },
+  "image#deal2": {
+    "props": {
+      "src": "assets/img/desafios.png",
+      "maxHeight": "30px"
+    }
+  },
+  "rich-text#deal2": {
+    "props": {
+      "text": "DESAFIOS",
+      "blockClass": "deals"
+    }
+  },
+  "flex-layout.col#deals3": {
+    "children": [
+      "image#deal3",
+      "rich-text#deal3"
+    ]
+  },
+  "image#deal3": {
+    "props": {
+      "src": "assets/img/loja.png",
+      "maxHeight": "30px"
+    }
+  },
+  "rich-text#deal3": {
+    "props": {
+      "text": "LOJA",
+      "blockClass": "deals"
+    }
+  },
+  "flex-layout.col#deals4": {
+    "children": [
+      "image#deal4",
+      "rich-text#deal4"
+    ]
+  },
+  "image#deal4": {
+    "props": {
+      "href": "",
+      "src": "assets/img/suporte.png",
+      "maxHeight": "30px"
+    }
+  },
+  "rich-text#deal4": {
+    "props": {
+      "text": "SUPORTE",
+      "blockClass": "deals"
+    }
+  }
+}
