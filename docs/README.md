@@ -12,7 +12,7 @@ desenvolver um ecommerce para um novo cliente com o nome UPMedal.com.
 Esse projeto foi desenvolvido na Plataforma de E-commerce da VTEX para criação de lojas, usando o framework VTEX IO.
 
 ### Workspace
-- [link](https://clepsonfonseca--hiringcoders2021.myvtex.com/)
+- https://clepsonfonseca--hiringcoders2021.myvtex.com/
 
 ### Hiring Coders #2
  - Projeto desenvolvido na 8ª Semana - Agosto 2021.
