@@ -3,7 +3,7 @@
 ## Preview
 ![store-theme-default](https://github.com/clepsonfonseca/banco-de-imagens/blob/main/assets/img/upmedal1.PNG)
 ## Imagens do Projeto
-![store-theme-default](https://github.com/clepsonfonseca/banco-de-imagens/blob/main/assets/img/Desafio%20UpMedal.png)
+![store-theme-default](https://github.com/clepsonfonseca/banco-de-imagens/blob/main/assets/img/upmedal3.PNG)
 
 ## Tutorial
 To understand how things work check our tutorial [Build a store using VTEX IO](https://vtex.io/docs/getting-started/build-stores-with-store-framework/1/)
